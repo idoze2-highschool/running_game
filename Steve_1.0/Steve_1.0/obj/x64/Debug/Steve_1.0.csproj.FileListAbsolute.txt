@@ -1,0 +1,9 @@
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\bin\x64\Debug\Steve_1.0.exe.config
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\bin\x64\Debug\Steve_1.0.exe
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\bin\x64\Debug\Steve_1.0.pdb
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\x64\Debug\Steve_1._0.Form1.resources
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\x64\Debug\Steve_1._0.Properties.Resources.resources
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\x64\Debug\Steve_1.0.csproj.GenerateResource.Cache
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\x64\Debug\Steve_1.0.exe
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\x64\Debug\Steve_1.0.pdb
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\x64\Debug\Steve_1.0.csprojResolveAssemblyReference.cache
