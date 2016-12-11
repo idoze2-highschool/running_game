@@ -1,0 +1,43 @@
+H:\Steve The Dinosaur\Steve_1.0\Steve_1.0\bin\Debug\Steve_1.0.exe.config
+H:\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.csprojResolveAssemblyReference.cache
+H:\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1._0.Form1.resources
+H:\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1._0.Properties.Resources.resources
+H:\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.csproj.GenerateResource.Cache
+E:\Steve The Dinosaur\Steve_1.0\Steve_1.0\bin\Debug\Steve_1.0.exe.config
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\bin\Debug\Steve_1.0.exe.config
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1._0.Form1.resources
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1._0.Properties.Resources.resources
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.csproj.GenerateResource.Cache
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\bin\Debug\Steve_1.0.exe
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\bin\Debug\Steve_1.0.pdb
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.exe
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.pdb
+E:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\bin\Debug\Steve_1.0.exe.config
+E:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.exe
+E:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.pdb
+E:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.csprojResolveAssemblyReference.cache
+E:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1._0.Form1.resources
+E:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1._0.Properties.Resources.resources
+E:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.csproj.GenerateResource.Cache
+E:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\bin\Debug\Steve_1.0.exe
+E:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\bin\Debug\Steve_1.0.pdb
+F:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\bin\Debug\Steve_1.0.exe.config
+F:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.exe
+F:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.pdb
+F:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\bin\Debug\Steve_1.0.exe
+F:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\bin\Debug\Steve_1.0.pdb
+F:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.csprojResolveAssemblyReference.cache
+F:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1._0.Form1.resources
+F:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1._0.Properties.Resources.resources
+F:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.csproj.GenerateResource.Cache
+D:\Projects\Steve The Dinosaur\Steve_1.0\Steve_1.0\obj\Debug\Steve_1._0.Form2.resources
+D:\Projects\Running Game\Steve_1.0\Steve_1.0\bin\Debug\Steve_1.0.exe.config
+D:\Projects\Running Game\Steve_1.0\Steve_1.0\bin\Debug\Steve_1.0.exe
+D:\Projects\Running Game\Steve_1.0\Steve_1.0\bin\Debug\Steve_1.0.pdb
+D:\Projects\Running Game\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.csprojResolveAssemblyReference.cache
+D:\Projects\Running Game\Steve_1.0\Steve_1.0\obj\Debug\Steve_1._0.Form1.resources
+D:\Projects\Running Game\Steve_1.0\Steve_1.0\obj\Debug\Steve_1._0.Form2.resources
+D:\Projects\Running Game\Steve_1.0\Steve_1.0\obj\Debug\Steve_1._0.Properties.Resources.resources
+D:\Projects\Running Game\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.csproj.GenerateResource.Cache
+D:\Projects\Running Game\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.exe
+D:\Projects\Running Game\Steve_1.0\Steve_1.0\obj\Debug\Steve_1.0.pdb
